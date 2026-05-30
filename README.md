@@ -3,37 +3,19 @@ This repository contains multiple data analytics projects completed as part of m
 
  Projects Include:-
 
-1. Sales Performance Analysis
+1. Customer Behaviour Analysis:-
+   Description : Analysis of customer shopping patterns.
 
-* Data cleaning and preprocessing
-* KPI calculation
-* Sales trend analysis
-* Regional performance analysis
-* Product performance evaluation
-* Business recommendations
+   [view in colab link](https://colab.research.google.com/drive/1Mdnv3_0zZGRusxhm9aicOjuyZdjyr_by?usp=sharing)
+   
+3. Sales Performance Analysis
+   Description : Analysis of Superstore sales data and business recommendations.
 
-2. Customer Behaviour Analysis
-
-* Customer data analysis
-* Behavioral insights
-* Customer segmentation
-* Trend identification
+[View in colab_link](https://colab.research.google.com/drive/1aoaxztny-aDTfyhwGiEdvZbKe3vYglly?usp=sharing) 
 
 3. Website Traffic Analysis
+  Description : Examination of user engagement and traffic sources to optimize website performance
 
-* Website traffic trends
-* Visitor analysis
-* Performance metrics
-* Data visualization
-
- Tools Used :-
  
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Google Colab
-
 - Author
 Shadma Taqui
