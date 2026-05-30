@@ -8,10 +8,10 @@ This repository contains multiple data analytics projects completed as part of m
 
    [view in colab link](https://colab.research.google.com/drive/1Mdnv3_0zZGRusxhm9aicOjuyZdjyr_by?usp=sharing)
    
-3. Sales Performance Analysis
+2. Sales Performance Analysis
    Description : Analysis of Superstore sales data and business recommendations.
 
-[View in colab_link](https://colab.research.google.com/drive/1aoaxztny-aDTfyhwGiEdvZbKe3vYglly?usp=sharing) 
+   [View in colab_link](https://colab.research.google.com/drive/1aoaxztny-aDTfyhwGiEdvZbKe3vYglly?usp=sharing) 
 
 3. Website Traffic Analysis
   Description : Examination of user engagement and traffic sources to optimize website performance
