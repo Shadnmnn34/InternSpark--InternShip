@@ -1,24 +1,39 @@
- Sales Performance Analysis
 
- Project Overview
-This project analyzes Superstore sales data to identify sales trends, regional performance, customer preferences, and top-selling products.
+This repository contains multiple data analytics projects completed as part of my internship and learning journey.
 
-Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab
+ Projects Include:-
 
- Key Analysis
-- Data Cleaning
-- KPI Calculation
-- Monthly Sales Trends
-- Regional Sales Analysis
-- Top Products Analysis
-- Shipping Mode Analysis
-- Sales Heatmap
+1. Sales Performance Analysis
 
- Outcome
-The analysis provides actionable recommendations to improve sales performance and customer satisfaction.
+* Data cleaning and preprocessing
+* KPI calculation
+* Sales trend analysis
+* Regional performance analysis
+* Product performance evaluation
+* Business recommendations
+
+2. Customer Behaviour Analysis
+
+* Customer data analysis
+* Behavioral insights
+* Customer segmentation
+* Trend identification
+
+3. Website Traffic Analysis
+
+* Website traffic trends
+* Visitor analysis
+* Performance metrics
+* Data visualization
+
+ Tools Used :-
+ 
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Google Colab
+
+- Author
+Shadma Taqui
