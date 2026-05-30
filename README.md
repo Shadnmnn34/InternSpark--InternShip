@@ -11,7 +11,7 @@ This repository contains multiple data analytics projects completed as part of m
 * Regional performance analysis
 * Product performance evaluation
 * Business recommendations
-[View in colab](https://colab.research.google.com/drive/1aoaxztny-aDTfyhwGiEdvZbKe3vYglly?usp=sharing)
+
 2. Customer Behaviour Analysis
 
 * Customer data analysis
